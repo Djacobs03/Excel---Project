@@ -10,16 +10,17 @@ This repository contains projects that analyze job market trends, salaries, and 
 - Analyzes salary trends across various job roles and locations.
 - Provides insights into pay disparities and high-demand skills.
 
-[Check out my work here](./Project%201%20-%20Salary_Dashboard/)  
+[Check out my work here](https://github.com/Djacobs03/Excel-Project/tree/main/Project%201%20-%20Salary_Dashboard)  
 
-  
+ 
 
 
   ### 📈 **Data Jobs Analysis**
 - Explores salary trends, skill demand, and regional differences in data-related jobs.
 - Identifies key factors influencing salaries and career growth.
 
-[Check out my work here](./Project%202%20-%20Salary%20Analysis/)   
+[Check out my work here](https://github.com/Djacobs03/Excel-Project/blob/main/Project%202%20-%20Salary%20Analysis/file.xlsx)
+ 
 
 
 ## Key Insights
