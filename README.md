@@ -28,7 +28,7 @@ This repository contains projects that analyze job market trends, salaries, and 
 - **SQL, Python, and cloud technologies dominate job requirements.**
 
 ## Technologies Used
-- Excel (Power Query, PivotTables, DAX, Advanced Charts)
+- Excel (Power Query, Power Pivot, PivotTables, DAX, Advanced Charts)
 - Data Analysis & Visualization
 
 
